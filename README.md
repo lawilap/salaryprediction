@@ -29,3 +29,10 @@ From the MSE values, I concluded that GB model has the best prediction accuracy,
 Finally, I created a barplot to show importance of each feature
 
 Markup : ![Feature Importance](https://raw.githubusercontent.com/lawilap/salaryprediction/master/images/importance.png)
+
+## Note: 
+Github wont allow me to upload the data as it is very big. 
+
+The data can be found at: https://www.dropbox.com/sh/i9rdy7obsxcri1p/AAARI7cfTQHKHySKMyAY9a66a?dl=0
+
+Drop me a request if you're not able to download the data
